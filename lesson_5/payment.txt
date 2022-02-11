@@ -1,0 +1,11 @@
+Ronaldo 120000.99
+Messi 115000.99
+Ryzhykov 999.99
+Maradona 24999.99
+Dzuba 19999.99
+Bystrov 9999.99
+Samedov 5000
+Ibragimovich 58999.99
+Kerimov 3250
+Belousov 1999.99
+Салибеков 8686
